@@ -1,3 +1,4 @@
+#Version 1.0.0, Created By Dylan Richards
 # -*- coding: utf-8 -*-
 import Tkinter, sys, tkMessageBox
 from Tkinter import *
